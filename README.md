@@ -1,7 +1,7 @@
 # 100MWHyperscaleDC
 Open Source state of the art Designs for a sustainable Hyperscale Data Center
 
-/*:
+
 - 100 MW total IT Capacity
 - Super conductive DC power distribution ( we need to show the true PUE of AC/SC conversion and rectification, compared to Submer highlighting the PUE of fans inside the server.)
 - DC central, scalable UPS
@@ -15,4 +15,4 @@ Open Source state of the art Designs for a sustainable Hyperscale Data Center
 - Natural Gas Backup Generator, fully integraded with the utility grid for frequency support
 - Keymetrix: cost per kW, cost per sqm whitespace, real PUE
 - Flexibility: OCP, 19" Mining equipment, Immersion and Liquid cooling
-/*
+
