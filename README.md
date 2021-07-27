@@ -17,3 +17,6 @@ Open Source state of the art Designs for a sustainable Hyperscale Data Center
 - Keymetrix: cost per kW, cost per sqm whitespace, real PUE
 - Flexibility: OCP, 19" Mining equipment, Immersion and Liquid cooling
 
+
+Working Document
+https://docs.google.com/document/d/1-J631_s6JX0FO1M-QztkY04ulFOXAigKATVIB9fCqj8/edit?usp=sharing
